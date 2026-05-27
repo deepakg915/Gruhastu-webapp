@@ -1,0 +1,27 @@
+App Name:Gruhastu
+Meaning:
+Derived from Grihastha (गृहस्थ) — the stage of life centered around family, responsibility, values, and dharma.
+The name represents a platform that brings Hindu wisdom into modern daily life.
+
+Mission Statement
+
+Gruhastu aims to preserve, simplify, and spread the timeless wisdom of 
+Hindu culture, scriptures, traditions, and spiritual practices through modern technology and AI.
+
+The platform is designed to help people  — understand why traditions exist,not just what to do.
+Main Features
+1. Epic Stories Section
+2. AI Spiritual Chatbot
+3. Stotras & Shlokas Library
+5. Festivals & Traditions,History,Mythological background
+6. Hindu Lifestyle Guidance,Ayrveda,Yoga,Meditation
+
+Future Expansion Ideas
+Temple locator
+Personalized puja planner
+Sanskrit learning module
+Kids mode with animated stories
+Community discussion forums
+Live pravachan streaming
+Daily chanting tracker
+AI voice guru assistant
